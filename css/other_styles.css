@@ -4,14 +4,27 @@
 
 .project-button {
   border-radius: 25px;
-  border: 2px solid #64a19d;
+  border: 2px solid black;
+  color: black;
   margin-right: 10px;
   width: 50px;
   text-align: center;
 }
 
 .project-button:hover {
-  color: black;
+  color: #64a19d;
   text-decoration: none;
-  border: 2px solid black;
+  border: 2px solid #64a19d;
+}
+
+.black-background {
+  margin-top: 20px;
+  color: rgba(255, 255, 255, 0.5);
+  border: 2px solid rgba(255, 255, 255, 0.5);
+}
+
+.black-background:hover {
+  color: #64a19d;
+  text-decoration: none;
+  border: 2px solid #64a19d;
 }

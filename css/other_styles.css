@@ -1,3 +1,7 @@
+.project-text > p {
+  text-align: justify;
+}
+
 .project-link-buttons {
   display: flex;
 }
@@ -27,4 +31,8 @@
   color: #64a19d;
   text-decoration: none;
   border: 2px solid #64a19d;
+}
+
+.last-link {
+  margin-right: 0;
 }

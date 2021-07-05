@@ -36,3 +36,8 @@
 .last-link {
   margin-right: 0;
 }
+
+.small-icon {
+  height: 25px;
+  width: 25px;
+}

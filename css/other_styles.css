@@ -15,6 +15,16 @@
   border-radius: 30px;
 }
 
+.skills-full-row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.skills-last-row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .project-gif:hover {
   filter: brightness(50%);
 }
